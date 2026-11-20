@@ -1,0 +1,6 @@
+{
+  "name": "Kurogane Manga",
+  "description": "Premium anime and manga e-commerce store featuring iconic shonen and seinen collections, collector editions, wishlist, cart, WhatsApp ordering, and admin inventory management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
